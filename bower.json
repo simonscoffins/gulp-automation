@@ -1,0 +1,19 @@
+{
+  "name": "Gulp-Automation",
+  "version": "0.1.0",
+  "description": "Generic Gulp Build Automation based on original Plurallsight Course JavaScript Build Automation with Gulp.js by John Pappa",
+  "authors": [
+    "Simon Scoffins"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
